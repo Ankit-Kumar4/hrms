@@ -147,4 +147,4 @@ The frontend will be available at `http://localhost:5173`.
 - Toast notifications for actions
 - Form validation with inline error messages
 - Empty states for better UX
-- Professional UI with consistent color scheme
+- Professional UI with consistent color scheme# hrms
