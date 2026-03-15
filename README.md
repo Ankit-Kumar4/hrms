@@ -148,3 +148,4 @@ The frontend will be available at `http://localhost:5173`.
 - Form validation with inline error messages
 - Empty states for better UX
 - Professional UI with consistent color scheme# hrms
+# hrms
